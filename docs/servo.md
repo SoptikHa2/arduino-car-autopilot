@@ -16,7 +16,7 @@ Servo myservo;
 int pos = 0;
 
 void setup() {
-  myservo.attach(9);
+  myservo.attach(9); // Pin 9
 }
 
 void loop() {
@@ -29,4 +29,4 @@ void loop() {
 ```
 
 ## Dependencies:
-- Servo
+- [Servo](https://www.arduino.cc/en/Reference/Servo)
