@@ -9,8 +9,6 @@ Extra: Button click
 
 ## Usage
 
-(not confirmed)
-
 ```
 VCC (+5V): +5V
 GND: GND
